@@ -7,7 +7,7 @@ A list of awesome papers and cool resources on theorem proving, formal software 
 ### Survays
 (Vafeiadis 2008) [Modular fine-grained concurrency verification](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-726.pdf)
 
-_Not technicaly a servay but background is very comprehensive
+__Not technicaly a servay but background is very comprehensive
 
 
 ## OS verifcation
