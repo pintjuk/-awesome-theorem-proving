@@ -16,7 +16,7 @@ _Not technicaly a servay but background is very comprehensive_
 
 
 ## OS verifcation
-* [Time Protection: The Missing OS Abstraction](http://ts.data61.csiro.au/publications/csiro_full_text//Ge_YCH_19.pdf) () **TODO:** read
+* [Time Protection: The Missing OS Abstraction](http://ts.data61.csiro.au/publications/csiro_full_text//Ge_YCH_19.pdf) (Ge 2019) **TODO:** read
 * [The Clustered Multikernel: An Approach toFormal Verification of Multiprocessor OS Kernels](http://ts.data61.csiro.au/publications/nicta_full_text/5618.pdf)
 **TODO:** read!
 * **seL4**: [Comprehensive Formal Verification of an OS Microkernel](http://ts.data61.csiro.au/publications/nicta_full_text/7371.pdf) (Klein 2014)
