@@ -3,6 +3,7 @@
 A list of awesome papers and cool resources on theorem proving, formal software verification and logic. Don't hesitate to suggest resources in other subfields of transfer learning. I accept pull requests
 # Tutorials
 
+**Talk:**[What's new in the world of seL4?](https://mirror.as35701.net/video.fosdem.org/2019/AW1.121/world_of_sel4.mp4) **TODO:** watch
 # Papers
 
 ## Concurency
@@ -15,6 +16,7 @@ _Not technicaly a servay but background is very comprehensive_
 
 
 ## OS verifcation
+* [Time Protection: The Missing OS Abstraction](http://ts.data61.csiro.au/publications/csiro_full_text//Ge_YCH_19.pdf) () **TODO:** read
 * [The Clustered Multikernel: An Approach toFormal Verification of Multiprocessor OS Kernels](http://ts.data61.csiro.au/publications/nicta_full_text/5618.pdf)
 **TODO:** read!
 * **seL4**: [Comprehensive Formal Verification of an OS Microkernel](http://ts.data61.csiro.au/publications/nicta_full_text/7371.pdf) (Klein 2014)
@@ -22,5 +24,6 @@ _Not technicaly a servay but background is very comprehensive_
 ### Surays
 * [Operating system verification—An overview](https://link.springer.com/content/pdf/10.1007%2Fs12046-009-0002-4.pdf) (Klein 2009)
 ### Vision
+* [Correct, Fast, Maintainable – Choose Any Three!](http://ts.data61.csiro.au/publications/nicta_full_text/5858.pdf) (Blackham 2012)
 * [What if you could actually Trust your kernel?](http://ts.data61.csiro.au/publications/nicta_full_text/4632.pdf) (Heiser 2011)
 * [It’s Time for Trustworthy Systems](http://ts.data61.csiro.au/publications/nicta_full_text/5778.pdf)
