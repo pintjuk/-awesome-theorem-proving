@@ -7,6 +7,7 @@ A list of awesome papers and cool resources on theorem proving, formal software 
 
 ## Concurency
 * [A Marriage of Rely/Guarantee and Separation Logic](https://link.springer.com/chapter/10.1007/978-3-540-74407-8_18) (Vafeiadis 2007)
+
 ### Survays
 *  [Modular fine-grained concurrency verification](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-726.pdf) (Vafeiadis 2008)
 
@@ -15,8 +16,7 @@ _Not technicaly a servay but background is very comprehensive_
 
 ## OS verifcation
 * [The Clustered Multikernel: An Approach toFormal Verification of Multiprocessor OS Kernels](http://ts.data61.csiro.au/publications/nicta_full_text/5618.pdf)
-### TODO
-- [ ] read
+**TODO:** read!
 * **seL4**: [Comprehensive Formal Verification of an OS Microkernel](http://ts.data61.csiro.au/publications/nicta_full_text/7371.pdf) (Klein 2014)
 * **seL4**: [seL4: Formal verification of an OS kernel](http://ts.data61.csiro.au/publications/nicta_full_text/1852.pdf) (Klein 2009)
 ### Surays
