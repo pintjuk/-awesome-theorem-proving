@@ -15,3 +15,5 @@ _Not technicaly a servay but background is very comprehensive_
 * **seL4**: [seL4: Formal verification of an OS kernel](http://ts.data61.csiro.au/publications/nicta_full_text/1852.pdf) (Klein 2009)
 ### Surays
 * [Operating system verification—An overview](https://link.springer.com/content/pdf/10.1007%2Fs12046-009-0002-4.pdf) (Klein 2009)
+### Vision
+* [What if you could actually Trust your kernel?](http://ts.data61.csiro.au/publications/nicta_full_text/4632.pdf) (Heiser 2011)
