@@ -5,7 +5,7 @@ A list of awesome papers and cool resources on theorem proving, formal software 
 ## Concurency
 (Vafeiadis 2007)[A Marriage of Rely/Guarantee and Separation Logic](https://link.springer.com/chapter/10.1007/978-3-540-74407-8_18)
 ### Survays
-(Vafeiadis 2008) [Modular fine-grained concurrency verification][https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-726.pdf]
+(Vafeiadis 2008) [Modular fine-grained concurrency verification](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-726.pdf)
 Not technicaly a servay but background is very comprehensive
 
 
