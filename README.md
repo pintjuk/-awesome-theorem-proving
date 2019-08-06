@@ -2,8 +2,8 @@
 
 A list of awesome papers and cool resources on theorem proving, formal software verification and logic. Don't hesitate to suggest resources in other subfields of transfer learning. I accept pull requests
 # Table Of Content
-<!-- start toc -->
-<!-- end toc -->
+<!-- toc start -->
+<!-- toc end -->
 # Tutorials
 
 **Talk:**[What's new in the world of seL4?](https://mirror.as35701.net/video.fosdem.org/2019/AW1.121/world_of_sel4.mp4) **TODO:** watch
