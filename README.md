@@ -3,6 +3,12 @@
 A list of awesome papers and cool resources on theorem proving, formal software verification and logic. Don't hesitate to suggest resources in other subfields of transfer learning. I accept pull requests
 # Table Of Content
 <!-- toc start -->
+  - [Awesome Theorem Proving](#awesome-theorem-proving)
+  - [Table Of Content](#table-of-content)
+  - [Tutorials](#tutorials)
+  - [Papers](#papers)
+    - [Concurency](#concurency)
+    - [OS verifcation](#os-verifcation)
 <!-- toc end -->
 # Tutorials
 
